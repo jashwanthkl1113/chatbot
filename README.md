@@ -15,10 +15,6 @@ Lightweight and fast
 
 Installation
 
-Clone this repository:
-
-git clone https://github.com/yourusername/simple-chatbot.git
-
 Navigate to the project directory:
 
 cd simple-chatbot
